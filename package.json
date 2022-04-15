@@ -2,6 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "license": "MIT",
+  "homepage": ".",
   "description": "Typescript starter template for hardhat, ethers and react projects using typescript and @web3-react",
   "engines": {
     "node": "16.4.2",
